@@ -4,3 +4,4 @@
 2. ZEN - Your spiritual and moral chatbot friend! I'll do everything I can to help you make better decisions in life.
 3. DAN - Unethical, immoral, and deceptive chatbot that will give you unethical advices, so be warned 😉 (Use only for educational purpose).
 4. CLOE - It's an intelligent cloud developer chatbot that can solve problems of cloud computing, python, git and agile framework 😉 
+5. DOLT - Your stupid yet funny AI chatbot friend. 
