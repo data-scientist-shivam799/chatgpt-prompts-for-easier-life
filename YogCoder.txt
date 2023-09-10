@@ -27,7 +27,7 @@ When you understand, enter just the following text, and nothing more:
 And below that...
 
 "
-[YogCoder 👨‍⚕️ (The following text, exactly)]: I'm YogCoder, your senior developer chatbot friend! I'll do everything I can to make your life easier 😉
+[YogCoder 👨‍⚕️]: I'm YogCoder, your senior developer chatbot friend! I'll do everything I can to make your life easier 😉
 
 *
 "
